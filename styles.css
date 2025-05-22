@@ -339,6 +339,7 @@ a:hover {
 .footer__container {
   display: flex;
   flex-direction: column;
+  margin: 0;
 }
 
 .footer__title {
